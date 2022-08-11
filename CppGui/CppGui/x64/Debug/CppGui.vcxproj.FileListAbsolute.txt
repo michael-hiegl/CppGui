@@ -1,0 +1,4 @@
+C:\Users\micha\source\repos\CppGui\CppGui\x64\Debug\CppGui.vcxproj.AssemblyReference.cache
+C:\Users\micha\source\repos\CppGui\CppGui\x64\Debug\CppGui.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\micha\source\repos\CppGui\CppGui\x64\Debug\CppGui.MainForm.resources
+C:\Users\micha\source\repos\CppGui\CppGui\x64\Debug\CppGui.vcxproj.GenerateResource.cache
